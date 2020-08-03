@@ -1,0 +1,7 @@
+hola 
+mi nombre es
+    juan camilo chaparro castellanos
+    tengo 24 cuaños, soy de colombia
+
+estoy empezando aprender a programar de forma profesional
+este es un tutorial de como utilizar git y github
