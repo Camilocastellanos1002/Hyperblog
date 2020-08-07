@@ -9,5 +9,5 @@ mi nombre es
 estoy empezando aprender a programar de forma profesional
 este es un tutorial de como utilizar git y github
 
-en estos momentos soy estudiante de la universidad de antioquia
-y de la plataforma platzi
+soy estudiante de la universidad de antioquia y de la plataforma platzi
+este es el resumen de mi vida
