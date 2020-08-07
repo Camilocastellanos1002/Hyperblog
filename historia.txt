@@ -1,8 +1,10 @@
 hola 
 mi nombre es
     juan camilo chaparro castellanos
-    tengo 24 cuaños, soy de colombia
-    vivo en medellin
+    tengo 24 cuaños, auque aparento con mayor edad
+    soy de colombia, vivo en medellin
+    soy de estatura 1.70 m y mi contextura es grande
+
 
 estoy empezando aprender a programar de forma profesional
 este es un tutorial de como utilizar git y github
