@@ -10,4 +10,4 @@ estoy empezando aprender a programar de forma profesional
 este es un tutorial de como utilizar git y github
 
 soy estudiante de la universidad de antioquia y de la plataforma platzi
-este es el resumen de mi vida
+este es el resumen por ahora de mi vida
