@@ -1,6 +1,23 @@
 body
 {
-    color: chocolate;
-    text-align: center;
-    font-family: "Times New Roman";
+    color: black; /*color de la letra*/
+    text-align: left;   /*alineacion de parrafo*/
+    font-family: "Times New Roman"; /*tipo de letra*/
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+
+}
+#container
+{
+    width: 70%; /*tamaño del recuadro en la pantalla horizontalmente*/
+    padding: 1em; /*tamaño del recuadro verticalmente*/
+    text-align: left; /*alineacion del texto, centro, izquierda o derecha*/
+    border: 1px solid coral; /*color del recuadro*/
+    margin: 0 auto; /*lugar del recuadro*/
+}
+#container h1
+{
+    font-size: 30px;
+
 }
