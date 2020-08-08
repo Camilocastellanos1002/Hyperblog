@@ -1,6 +1,6 @@
 body
 {
-    color:blue; /*color de la letra*/
+    color:gray; /*color de la letra*/
     text-align: left;   /*alineacion de parrafo*/
     font-family: "Arial"; /*tipo de letra*/
     font-size: 20px;
