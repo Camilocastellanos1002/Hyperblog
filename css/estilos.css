@@ -8,16 +8,35 @@ body
     padding: 0;
 
 }
+#cabecera
+{
+    background: #3333aa;; /*resaltado de la cabecera*/
+    color:white; /*color de la letra de cabecera*/
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.75); /*sobra en la cabecera*/
+    font-weight: bold; /*negrilla */
+    margin: 0;
+    padding: 0.3em; /*tamaño del resaltado*/
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container
 {
     width: 70%; /*tamaño del recuadro en la pantalla horizontalmente*/
-    padding: 1em; /*tamaño del recuadro verticalmente*/
+    padding: 0/*1em*/; /*tamaño del recuadro verticalmente*/
     text-align: left; /*alineacion del texto, centro, izquierda o derecha*/
-    border: 1px solid coral; /*color del recuadro*/
+    border: 1px solid gray; /*color del recuadro*/
     margin: 0 auto; /*lugar del recuadro*/
 }
 #container h1
 {
     font-size: 30px;
 
+}
+#post
+{
+    padding: 1em;
 }
