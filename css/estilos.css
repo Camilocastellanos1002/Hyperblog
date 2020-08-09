@@ -1,6 +1,7 @@
 body
 {
-    color:gray; /*color de la letra*/
+    background:gray  ; /*fondo de la pagina*/
+    color:black; /*color de la letra*/
     text-align: left;   /*alineacion de parrafo*/
     font-family: "Arial"; /*tipo de letra*/
     font-size: 20px;
@@ -10,12 +11,17 @@ body
 }
 #cabecera
 {
-    background: #3333aa;; /*resaltado de la cabecera*/
+    background: blue;
     color:white; /*color de la letra de cabecera*/
-    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.75); /*sobra en la cabecera*/
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.5); /*sobra en la cabecera*/
     font-weight: bold; /*negrilla */
     margin: 0;
-    padding: 0.5em; /*tamaño del resaltado*/
+    padding: 0.5em 0 0.5em 2em; /*tamaño del resaltado*/
+}
+#cabecera #logo
+{
+    width: 20px; /*ancho de la imagen, 20 pixeles*/
+    vertical-align: middle; /*alineacion, a la mitad*/
 }
 #cabecera #tagline
 {
@@ -26,7 +32,7 @@ body
 #container
 {
     width: 70%; /*tamaño del recuadro en la pantalla horizontalmente*/
-    padding: 0/*1em*/; /*tamaño del recuadro verticalmente*/
+    padding: 1em; /*tamaño del recuadro verticalmente*/
     text-align: left; /*alineacion del texto, centro, izquierda o derecha*/
     border: 1px solid gray; /*color del recuadro*/
     margin: 0 auto; /*lugar del recuadro*/
@@ -38,5 +44,6 @@ body
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
