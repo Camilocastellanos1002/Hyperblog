@@ -34,7 +34,7 @@ body
     width: 70%; /*tamaño del recuadro en la pantalla horizontalmente*/
     padding: 1em; /*tamaño del recuadro verticalmente*/
     text-align: left; /*alineacion del texto, centro, izquierda o derecha*/
-    border: 1px solid gray; /*color del recuadro*/
+    border: 1px solid gray  ; /*color del recuadro*/
     margin: 0 auto; /*lugar del recuadro*/
 }
 #container h1
