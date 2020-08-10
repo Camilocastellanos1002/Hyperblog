@@ -12,4 +12,4 @@ Este curso vemos de todo:
 
 como recordatorio:
     **Este readme.md es un chiste** Diseñado para el ejemplo
-Si llegas acá NO TE LO TOMES EN SERIO.
+Si llegas acá **NO TE LO TOMES EN SERIO**.
